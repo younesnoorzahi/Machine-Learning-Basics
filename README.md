@@ -8,7 +8,32 @@
 
 ```
 Type	| Description |	Example
-Supervised: Learning	Learns from labeled data (input-output pairs)	Predicting house prices
-Unsupervised: Learning	Finds patterns in unlabeled data	Customer segmentation
-Reinforcement: Learning	Learns by interacting with an environment	Game-playing AI (e.g., AlphaGo)</p>
+Supervised: Learning ~	Learns from labeled data (input-output pairs)	~ Predicting house prices
+Unsupervised: Learning	~ Finds patterns in unlabeled data ~	Customer segmentation
+Reinforcement: Learning ~	Learns by interacting with an environment ~	Game-playing AI (e.g., AlphaGo)</p>
 ```
+
+<h1>2. Essential Python Libraries for ML</h1>
+
+```
+
+Library	| Purpose
+NumPy:	Numerical computing (arrays, matrices)
+Pandas:	Data manipulation (DataFrames)
+Matplotlib/Seaborn:	Data visualization
+Scikit-learn:	ML algorithms (classification, regression, clustering)
+TensorFlow/PyTorch:	Deep Learning
+```
+
+<p>Install them using:</p>
+
+```
+pip install numpy pandas matplotlib seaborn scikit-learn tensorflow
+```
+
+<h1>3. Typical ML Workflow</h1>
+<p>1.Data Collection → 2. Data Preprocessing → 3. Model Training → 4. Evaluation → 5. Prediction</p>
+
+<h1>4. Supervised Learning Example (Regression & Classification)</h1>
+<p>You can see it in the files above.</p>
+
