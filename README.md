@@ -37,3 +37,11 @@ pip install numpy pandas matplotlib seaborn scikit-learn tensorflow
 <h1>4. Supervised Learning Example (Regression & Classification)</h1>
 <p>You can see it in the files above.</p>
 
+<h2>6. Evaluating ML Models</h2>
+
+<li>
+Metric	Regression	Classification
+<li>Accuracy	❌	✅ (Correct predictions / Total)</li>
+<li>Mean Squared Error (MSE)	✅ (Lower = better)	❌</li>
+<li>Precision/Recall	❌	✅ (For imbalanced data)</li>
+<li>Confusion Matrix	❌	✅ (TP, TN, FP, FN)</li></li>
