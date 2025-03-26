@@ -40,8 +40,17 @@ pip install numpy pandas matplotlib seaborn scikit-learn tensorflow
 <h2>6. Evaluating ML Models</h2>
 
 <li>
-Metric	Regression	Classification
-<li>Accuracy	❌	✅ (Correct predictions / Total)</li>
-<li>Mean Squared Error (MSE)	✅ (Lower = better)	❌</li>
-<li>Precision/Recall	❌	✅ (For imbalanced data)</li>
-<li>Confusion Matrix	❌	✅ (TP, TN, FP, FN)</li></li>
+Metric |	Regression |	Classification
+<li>Accuracy:	❌	✅ (Correct predictions / Total)</li>
+<li>Mean Squared Error (MSE):	✅ (Lower = better)	❌</li>
+<li>Precision/Recall:	❌	✅ (For imbalanced data)</li>
+<li>Confusion Matrix:	❌	✅ (TP, TN, FP, FN)</li></li>
+
+<h2>7. Next Steps in ML</h2>
+<li>Feature Engineering (Improving data quality)</li>
+<li>Hyperparameter Tuning (GridSearchCV, RandomSearch)</li>
+<li>Deep Learning (Neural Networks with TensorFlow/PyTorch)</li>
+<li>Deployment (Flask/Django for ML APIs)</li>
+
+<h2>Resources</h2>
+<li><a href="https://scikit-learn.org/stable/">Scikit-learn Documentation</a></li>
