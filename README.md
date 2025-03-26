@@ -54,3 +54,5 @@ Metric |	Regression |	Classification
 
 <h2>Resources</h2>
 <li><a href="https://scikit-learn.org/stable/">Scikit-learn Documentation</a></li>
+<li><a href="https://www.kaggle.com/learn">Kaggle ML Courses</a></li>
+<li><a href="https://developers.google.com/machine-learning/crash-course">Google ML Crash Course</a></li>
